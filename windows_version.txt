@@ -1,0 +1,1 @@
+1.0;https://github.com/szuszonafrytka/NoSignal-Repo/raw/main/gra_linux.zip
